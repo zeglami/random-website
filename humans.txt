@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+    <zegit.me>
 
 # TECHNOLOGY COLOPHON
 
